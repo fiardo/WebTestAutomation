@@ -1,15 +1,22 @@
 package uniliv.base;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.*;
+import org.testng.annotations.Listeners;
+import uniliv.AbstractMethods.LogUtility;
+import uniliv.AbstractMethods.TestListener;
 
+@Listeners(TestListener.class)
 public class BaseTest {
 
-    public WebDriver driver;
+    protected WebDriver driver;
+
+    public WebDriver getDriver() {
+        return driver;
+    }
+
     public WebDriver invokedriver() throws InterruptedException {
         ChromeOptions browseroptions = new ChromeOptions();
         browseroptions.addArguments("--disable-notifications");
@@ -26,8 +33,11 @@ public class BaseTest {
     }
 
     @AfterMethod(alwaysRun = true)
-    public void quitbrowser(){
-        driver.quit();
+    public void tearDown() {
+        if (driver != null) {
+            driver.quit();
+            LogUtility.info("Browser closed");
+        }
     }
-
 }
+
