@@ -23,7 +23,7 @@ public class BaseTest {
         WebDriver driver = new ChromeDriver(browseroptions);
         driver.manage().window().maximize();
         driver.get("https://stg-next.universityliving.com/");
-        Thread.sleep(5000);
+        Thread.sleep(3000);
         return driver;
     }
 
@@ -33,6 +33,7 @@ public class BaseTest {
     }
 
     @AfterMethod(alwaysRun = true)
+
     public void tearDown() {
         if (driver != null) {
             driver.quit();

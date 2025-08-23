@@ -346,3 +346,677 @@ Aug 22, 2025 12:43:48 PM uniliv.AbstractMethods.LogUtility endTest
 INFO: ========== Test enquireform PASSED ==========
 Aug 22, 2025 12:43:48 PM uniliv.AbstractMethods.LogUtility info
 INFO: Browser closed
+Aug 22, 2025 1:12:18 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 1:12:18 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 1:12:18 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 1:12:22 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 1:12:22 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 22, 2025 1:12:22 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 1:15:25 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 1:15:25 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 1:15:25 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 1:15:29 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 1:15:39 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 22, 2025 1:15:39 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 1:18:20 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 1:18:20 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 1:18:20 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 1:18:24 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 1:18:27 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to the previous page
+Aug 22, 2025 1:18:30 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 22, 2025 1:18:30 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 1:19:24 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 1:19:24 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 1:19:24 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 1:19:28 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 1:19:38 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to the previous page
+Aug 22, 2025 1:19:41 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 22, 2025 1:19:41 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 2:16:14 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 2:16:14 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 2:16:14 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 2:16:18 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 22, 2025 2:16:18 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#async\-pagination\-example\-item\-0"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cc478b232f7362779c628a3b77ce9d2e, findElement {value=async-pagination-example-item-0, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53514}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53514/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cc478b232f7362779c628a3b77ce9d2e
+Aug 22, 2025 2:16:18 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 22, 2025 2:16:18 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 2:16:30 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 2:16:30 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 2:16:30 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 2:16:34 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 2:16:44 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 22, 2025 2:16:44 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[normalize-space()='Enquire now'])[1]"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f426ee6deeb31dea09a35b7bad00807, findElement {using=xpath, value=(//button[normalize-space()='Enquire now'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53587}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53587/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f426ee6deeb31dea09a35b7bad00807
+Aug 22, 2025 2:16:44 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 22, 2025 2:16:44 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 2:18:26 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 2:18:26 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 2:18:26 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 2:18:30 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 2:18:40 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 22, 2025 2:18:40 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[normalize-space()='Enquire now'])[1]"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [87dff224fa38d7472e54feac9a9fd845, findElement {using=xpath, value=(//button[normalize-space()='Enquire now'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53724}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53724/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 87dff224fa38d7472e54feac9a9fd845
+Aug 22, 2025 2:18:40 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 22, 2025 2:18:41 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 2:19:35 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 2:19:35 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 2:19:35 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 2:19:39 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 2:19:53 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to the previous page
+Aug 22, 2025 2:19:56 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 22, 2025 2:19:56 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 3:00:29 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 3:00:29 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 3:00:33 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 3:00:33 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 3:00:44 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 22, 2025 3:00:44 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[normalize-space()='Wood Green Hall']"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4f2d7cf4e1a40d7c67f36429f99cc31f, findElement {value=//h3[normalize-space()='Wood Green Hall'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56801}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56801/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4f2d7cf4e1a40d7c67f36429f99cc31f
+Aug 22, 2025 3:00:44 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 22, 2025 3:00:44 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 22, 2025 3:02:40 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 22, 2025 3:02:40 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 22, 2025 3:02:43 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: click to search bar
+Aug 22, 2025 3:02:43 PM uniliv.AbstractMethods.LogUtility msg
+INFO: text searched and submitted
+Aug 22, 2025 3:02:56 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to the previous page
+Aug 22, 2025 3:02:59 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 22, 2025 3:03:00 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:37:26 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:37:26 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:37:32 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:37:43 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:37:46 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:37:46 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[contains(@title, 'Add to Compare')]"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [efe11803a5e977f438b960f406516287, findElement {using=xpath, value=//img[contains(@title, 'Add to Compare')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58851}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58851/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: efe11803a5e977f438b960f406516287
+Aug 23, 2025 2:37:46 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:37:47 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:42:29 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:42:29 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:42:33 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:42:33 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#async\-pagination\-example\-item\-0"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8542df5df92a35e1ade273d309ad609, findElement {value=async-pagination-example-item-0, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59260}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59260/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8542df5df92a35e1ade273d309ad609
+Aug 23, 2025 2:42:33 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:42:33 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:42:45 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:42:45 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:42:49 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:42:59 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:43:03 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:43:03 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[contains(@title, 'Add to Compare')]"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [521c297850d82614dfdb94ff1872f1b5, findElement {value=//img[contains(@title, 'Add to Compare')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59316}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59316/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 521c297850d82614dfdb94ff1872f1b5
+Aug 23, 2025 2:43:03 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:43:03 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:45:13 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:45:13 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:45:17 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:45:20 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:45:31 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:45:31 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[contains(@title, 'Add to Compare')]"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [040b0249fb311a878ab815f268508498, findElement {using=xpath, value=//img[contains(@title, 'Add to Compare')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59504}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59504/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 040b0249fb311a878ab815f268508498
+Aug 23, 2025 2:45:31 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:45:31 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:48:43 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:48:43 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:48:47 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:48:50 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:49:01 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:49:01 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='Add to Compare']"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [906b5a4964694cd89ac581a77718072d, findElement {using=xpath, value=//img[@alt='Add to Compare']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59796}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59796/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 906b5a4964694cd89ac581a77718072d
+Aug 23, 2025 2:49:01 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:49:01 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:51:16 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:51:16 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:51:20 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:51:23 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:51:35 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:51:35 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"partial link text","selector":"https://cdn.universityliving.com/files/1664531599169compare_notadded.webp?w=32"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [748527df66036a98c4f9cdd48b4b4497, findElement {value=https://cdn.universityliving.com/files/1664531599169compare_notadded.webp?w=32, using=partial link text}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59959}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59959/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 748527df66036a98c4f9cdd48b4b4497
+Aug 23, 2025 2:51:35 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:51:35 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:53:53 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:53:53 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:53:57 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:54:00 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:54:11 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:54:11 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[.//img[@title='Add to Compare']]"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c3d7a56e636a20bb9d189b6bf0dbaa7e, findElement {using=xpath, value=//button[.//img[@title='Add to Compare']]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60236}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60236/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c3d7a56e636a20bb9d189b6bf0dbaa7e
+Aug 23, 2025 2:54:11 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:54:11 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 2:56:55 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 2:56:55 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 2:56:59 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 2:57:02 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 2:57:13 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 2:57:13 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"img[title='Add to Compare']"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cf66ddb3a8ea1768ce2f57dc7f78b598, findElement {value=img[title='Add to Compare'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60478/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cf66ddb3a8ea1768ce2f57dc7f78b598
+Aug 23, 2025 2:57:13 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 2:57:13 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:00:45 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:00:46 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:00:49 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:00:53 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 3:01:03 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:01:03 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='__next']/main/div[1]/div[4]/div[1]/div[1]/div[2]/div/img"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f6d81635083cfaeb7f89524c21f6e9df, findElement {using=xpath, value=//*[@id='__next']/main/div[1]/div[4]/div[1]/div[1]/div[2]/div/img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60751}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60751/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f6d81635083cfaeb7f89524c21f6e9df
+Aug 23, 2025 3:01:03 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:01:04 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:11:16 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:11:16 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:11:21 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:11:24 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 3:11:35 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:11:35 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbdd2d92bbd87c233ce719c06f38f038, actions {actions=[org.openqa.selenium.interactions.Sequence@28486680]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61417}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61417/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbdd2d92bbd87c233ce719c06f38f038
+Aug 23, 2025 3:11:35 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:11:35 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:17:09 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:17:09 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:17:13 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:17:16 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 3:17:26 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:17:29 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Listing page
+Aug 23, 2025 3:17:29 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:17:30 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:17:30 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Previously compared']"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3eb1a30824c2e1c7cf7cc1fd9b4bc253, findElement {value=//span[normalize-space()='Previously compared'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62152}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62152/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3eb1a30824c2e1c7cf7cc1fd9b4bc253
+Aug 23, 2025 3:17:30 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:17:30 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:19:01 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:19:01 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:19:05 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:19:08 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 3:19:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:19:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Listing page
+Aug 23, 2025 3:19:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:19:22 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:19:22 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Previously compared']"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f3c21b6eb7a189bc04bb4537a3cac82, findElement {value=//span[normalize-space()='Previously compared'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62354}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62354/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f3c21b6eb7a189bc04bb4537a3cac82
+Aug 23, 2025 3:19:22 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:19:22 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:22:43 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:22:43 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:22:47 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:22:50 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 3:22:53 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:22:54 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Listing page
+Aug 23, 2025 3:22:54 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:23:04 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:23:04 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Previously compared']"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76bc2cbe05714322dd28c801b0523a8d, findElement {using=xpath, value=//span[normalize-space()='Previously compared']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62754/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 76bc2cbe05714322dd28c801b0523a8d
+Aug 23, 2025 3:23:04 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:23:04 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:24:06 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:24:06 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:24:10 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:24:13 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to property detail page
+Aug 23, 2025 3:24:16 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:24:16 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Listing page
+Aug 23, 2025 3:24:16 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:27:06 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:27:06 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:27:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:27:17 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:27:17 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:28:47 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Select Previously Compared Tab
+Aug 23, 2025 3:28:47 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked On Enquire Button of Previously Compared Property
+Aug 23, 2025 3:28:48 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:28:48 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#FullName"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [985a06d8484f55bc62fa48f949952154, findElement {value=FullName, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63302}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63302/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 985a06d8484f55bc62fa48f949952154
+Aug 23, 2025 3:28:48 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:28:48 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:31:20 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:31:20 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:31:24 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:31:30 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:31:30 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:31:34 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Select Previously Compared Tab
+Aug 23, 2025 3:31:34 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked On Enquire Button of Previously Compared Property
+Aug 23, 2025 3:31:37 PM uniliv.AbstractMethods.LogUtility fail
+SEVERE: FAIL: Test FAILED: enquireform
+Aug 23, 2025 3:31:37 PM uniliv.AbstractMethods.LogUtility error
+SEVERE: Failure reason - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#FullName"}
+  (Session info: chrome=139.0.7258.128)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09c6a692cf2eb59408c6b4f53018d5c5, findElement {using=id, value=FullName}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.128, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\PRAVIN~1.GAR\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63717}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63717/devtoo..., se:cdpVersion: 139.0.7258.128, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09c6a692cf2eb59408c6b4f53018d5c5
+Aug 23, 2025 3:31:37 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform FAILED ==========
+Aug 23, 2025 3:31:38 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:33:54 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:33:54 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:33:58 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:34:04 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:34:04 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:34:07 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Select Previously Compared Tab
+Aug 23, 2025 3:34:07 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked On Enquire Button of Previously Compared Property
+Aug 23, 2025 3:34:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Full Name 
+Aug 23, 2025 3:34:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Email 
+Aug 23, 2025 3:34:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Contact Number
+Aug 23, 2025 3:34:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked on Platform to reach
+Aug 23, 2025 3:34:11 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Selected Email option from PlatformToReach
+Aug 23, 2025 3:34:12 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked on Select University Dropdown
+Aug 23, 2025 3:34:12 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Selected University from university Dropdown
+Aug 23, 2025 3:34:15 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 23, 2025 3:34:15 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:40:15 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:40:15 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:40:19 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:40:25 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:40:25 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:40:28 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Select Previously Compared Tab
+Aug 23, 2025 3:40:28 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked On Enquire Button of Previously Compared Property
+Aug 23, 2025 3:40:31 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Full Name 
+Aug 23, 2025 3:40:32 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Email 
+Aug 23, 2025 3:40:32 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Contact Number
+Aug 23, 2025 3:40:32 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked on Platform to reach
+Aug 23, 2025 3:40:32 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Selected Email option from PlatformToReach
+Aug 23, 2025 3:40:33 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked on Select University Dropdown
+Aug 23, 2025 3:40:33 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Selected University from university Dropdown
+Aug 23, 2025 3:40:33 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Enquire Now Form Submitted and its working Fine , Please Verify Contact Created In Crm 
+Aug 23, 2025 3:40:33 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 23, 2025 3:40:33 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
+Aug 23, 2025 3:43:44 PM uniliv.AbstractMethods.LogUtility startTest
+INFO: ========== Starting Test: enquireform ==========
+Aug 23, 2025 3:43:44 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigate to Home page
+Aug 23, 2025 3:43:50 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP:  search and select the property/city/university
+Aug 23, 2025 3:43:56 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Property Added to Compare list
+Aug 23, 2025 3:43:56 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Navigated back to Homepage page
+Aug 23, 2025 3:43:59 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Select Previously Compared Tab
+Aug 23, 2025 3:43:59 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked On Enquire Button of Previously Compared Property
+Aug 23, 2025 3:44:02 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Full Name 
+Aug 23, 2025 3:44:02 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Email 
+Aug 23, 2025 3:44:03 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Entered Contact Number
+Aug 23, 2025 3:44:03 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked on Platform to reach
+Aug 23, 2025 3:44:03 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Selected Email option from PlatformToReach
+Aug 23, 2025 3:44:03 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Clicked on Select University Dropdown
+Aug 23, 2025 3:44:04 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Selected University from university Dropdown
+Aug 23, 2025 3:44:04 PM uniliv.AbstractMethods.LogUtility step
+INFO: STEP: Enquire Now Form Submitted
+Aug 23, 2025 3:44:04 PM uniliv.AbstractMethods.LogUtility info
+INFO: Enquire Now form Working Fine , please check the Contact Created in Crm with filled details
+Aug 23, 2025 3:44:04 PM uniliv.AbstractMethods.LogUtility endTest
+INFO: ========== Test enquireform PASSED ==========
+Aug 23, 2025 3:44:04 PM uniliv.AbstractMethods.LogUtility info
+INFO: Browser closed
